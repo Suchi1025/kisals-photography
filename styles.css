@@ -257,8 +257,8 @@ textarea {
   box-shadow: var(--shadow);
   border: 1px solid rgba(255,255,255,0.06);
   background:
-    linear-gradient(180deg, rgba(0,0,0,0.05), rgba(0,0,0,0.55)),
-    url('https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+  linear-gradient(180deg, rgba(0,0,0,0.18), rgba(0,0,0,0.58)),
+  url("images/KGR09499.jpg") center/cover no-repeat;
 }
 
 .hero-badge {
@@ -402,8 +402,8 @@ textarea {
   overflow: hidden;
   box-shadow: var(--shadow);
   background:
-    linear-gradient(180deg, rgba(0,0,0,0.08), rgba(0,0,0,0.38)),
-    url('https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+    linear-gradient(180deg, rgba(0,0,0,0.12), rgba(0,0,0,0.42)),
+    url("images/KGR_8452.jpg") center/cover no-repeat;
   border: 1px solid rgba(255,255,255,0.06);
 }
 
