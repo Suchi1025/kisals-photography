@@ -52,9 +52,3 @@ revealEls.forEach((el) => revealObserver.observe(el));
 
 window.addEventListener('scroll', setActiveLink);
 window.addEventListener('load', setActiveLink);
-
-contactForm.addEventListener('submit', (event) => {
-  event.preventDefault();
-  formSuccess.style.display = 'block';
-  contactForm.reset();
-});
